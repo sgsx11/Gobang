@@ -398,7 +398,7 @@ class AIThread(QThread):
 
 该项目使用Pycharm 2021.2.3 + Python3.8编写
 
-完整项目已上传github：
+完整项目已上传github：https://github.com/sgsx11/Gobang
 
 ##### 2.2 start.py
 
