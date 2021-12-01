@@ -390,7 +390,7 @@ class AIThread(QThread):
 
 #### 1、图形界面
 
-![QQ截图20211201132728](C:\Users\time\Desktop\QQ截图20211201132728.png)
+![QQ截图20211201132728](https://user-images.githubusercontent.com/93324578/144184764-95b1039f-3d40-412c-bd79-2550896b9712.png)
 
 #### 2、完整代码：
 
@@ -402,15 +402,16 @@ class AIThread(QThread):
 
 ##### 2.2 start.py
 
-![carbon (6)](C:\Users\time\Downloads\carbon (6).png)
+![carbon (6)](https://user-images.githubusercontent.com/93324578/144185116-0cb3e737-1882-4017-aa77-2545d5571fa0.png)
 
 ##### 2.3 AI.py
 
-![carbon (7)](C:\Users\time\Downloads\carbon (7).png)
+![carbon (7)](https://user-images.githubusercontent.com/93324578/144184793-6d7ae629-40ab-404b-8c43-351e73a5c81c.png)
 
 ##### 2.4 gobang_ui.py
 
-![carbon (8)](C:\Users\time\Downloads\carbon (8).png)
+![carbon (8)](https://user-images.githubusercontent.com/93324578/144185133-7281ae6a-387d-423f-b59a-11678cfb4aee.png)
+
 
 ### 三、总结
 
